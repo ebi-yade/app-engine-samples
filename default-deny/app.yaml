@@ -1,2 +1,2 @@
 service: default
-runtime: go119
+runtime: go122
